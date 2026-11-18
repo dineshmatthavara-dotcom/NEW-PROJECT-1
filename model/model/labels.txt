@@ -1,0 +1,10 @@
+battery
+cardboard
+cloths
+glass
+metal
+organic
+paper
+plastic
+shoe
+trash
