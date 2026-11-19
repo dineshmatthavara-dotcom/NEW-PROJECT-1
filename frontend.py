@@ -9,7 +9,8 @@ st.set_page_config(
     layout="centered"
 )
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL ="https://new-project-2-0yyn.onrender.com/predict"
+
 
 st.title("♻️ EcoVision-AI")
 st.subheader("AI-Powered Waste Classification")
